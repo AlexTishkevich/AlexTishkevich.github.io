@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AlexTishkevich.github.io/pixel/",
+  "homepage": "https://AlexTishkevich.github.io/test/",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
