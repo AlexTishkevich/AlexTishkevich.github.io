@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pixel/precache-manifest.dac6d315ea11681b3a9a3a495b1161f6.js"
+  "/AlexTishkevich.github.io/precache-manifest.aa1d7b2c2474f98a09dc0df5d1addabd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/pixel/index.html", {
+workbox.routing.registerNavigationRoute("/AlexTishkevich.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

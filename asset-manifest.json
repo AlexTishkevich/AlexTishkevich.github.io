@@ -1,14 +1,14 @@
 {
-  "main.css": "/pixel/static/css/main.76878224.chunk.css",
-  "main.js": "/pixel/static/js/main.bbc24c8c.chunk.js",
-  "main.js.map": "/pixel/static/js/main.bbc24c8c.chunk.js.map",
-  "static/js/1.a27667fd.chunk.js": "/pixel/static/js/1.a27667fd.chunk.js",
-  "static/js/1.a27667fd.chunk.js.map": "/pixel/static/js/1.a27667fd.chunk.js.map",
-  "runtime~main.js": "/pixel/static/js/runtime~main.30ebf2e4.js",
-  "runtime~main.js.map": "/pixel/static/js/runtime~main.30ebf2e4.js.map",
-  "static/media/logo_w.png": "/pixel/static/media/logo_w.b69139c5.png",
-  "static/css/main.76878224.chunk.css.map": "/pixel/static/css/main.76878224.chunk.css.map",
-  "index.html": "/pixel/index.html",
-  "precache-manifest.dac6d315ea11681b3a9a3a495b1161f6.js": "/pixel/precache-manifest.dac6d315ea11681b3a9a3a495b1161f6.js",
-  "service-worker.js": "/pixel/service-worker.js"
+  "main.css": "/AlexTishkevich.github.io/static/css/main.76878224.chunk.css",
+  "main.js": "/AlexTishkevich.github.io/static/js/main.bbc24c8c.chunk.js",
+  "main.js.map": "/AlexTishkevich.github.io/static/js/main.bbc24c8c.chunk.js.map",
+  "static/js/1.a27667fd.chunk.js": "/AlexTishkevich.github.io/static/js/1.a27667fd.chunk.js",
+  "static/js/1.a27667fd.chunk.js.map": "/AlexTishkevich.github.io/static/js/1.a27667fd.chunk.js.map",
+  "runtime~main.js": "/AlexTishkevich.github.io/static/js/runtime~main.0a8cf272.js",
+  "runtime~main.js.map": "/AlexTishkevich.github.io/static/js/runtime~main.0a8cf272.js.map",
+  "static/media/logo_w.png": "/AlexTishkevich.github.io/static/media/logo_w.b69139c5.png",
+  "static/css/main.76878224.chunk.css.map": "/AlexTishkevich.github.io/static/css/main.76878224.chunk.css.map",
+  "index.html": "/AlexTishkevich.github.io/index.html",
+  "precache-manifest.aa1d7b2c2474f98a09dc0df5d1addabd.js": "/AlexTishkevich.github.io/precache-manifest.aa1d7b2c2474f98a09dc0df5d1addabd.js",
+  "service-worker.js": "/AlexTishkevich.github.io/service-worker.js"
 }
